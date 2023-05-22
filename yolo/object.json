@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "verification":{
+        "id":"f04bdb47-d3be-4b28-b028-............",
+        "url": "https://www.Tokensur.com",
+        "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJh............",
+        "baseUrl": "https://stationapi.veriff.com",
+    }
+}
